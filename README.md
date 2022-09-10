@@ -1,7 +1,7 @@
 # Numerical-Methods
 Contains [Jupyter
 notebooks](https://jupyter-notebook.readthedocs.io/en/stable/) in
-[Python](https://www.python.org/) used for teaching a course on Numerical
+[Python 3](https://www.python.org/) used for teaching a course on Numerical
 Methods for undergraduate students. 
 
 ### Bibliography:
