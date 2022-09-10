@@ -7,6 +7,6 @@ Methods for undergraduate students.
 ### Bibliography:
 * Hamming, R. W. (1979) — _Numerical Methods for Scientists and Engineers_, 2nd
   ed. — McGraw Hill
-* Kiusalaas, J. (2013) — _Numerical Methods in Engineering with Python 3__ —
+* Kiusalaas, J. (2013) — _Numerical Methods in Engineering with Python 3_ —
   Cambridge University Press
-* Ruggiero, M. and Lopes, V. (2000) — _Cálculo Numérico_ — Pearson
+* Ruggiero, M. and Lopes, V. (2000) — _Cálculo Numérico_, 2nd ed. — Pearson
