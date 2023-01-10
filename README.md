@@ -2,7 +2,7 @@
 
 🇵🇹 Contém [cadernos Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/) em [Python 3](https://www.python.org/) usados para lecionar Cálculo Numérico a estudantes de graduação.
 
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 Contains [Jupyter
+🇬🇧 Contains [Jupyter
 notebooks](https://jupyter-notebook.readthedocs.io/en/stable/) in
 [Python 3](https://www.python.org/) used to teach a course on Numerical
 Methods to undergraduate students. 
