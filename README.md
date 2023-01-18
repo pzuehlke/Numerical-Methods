@@ -26,7 +26,8 @@ Methods to undergraduate students.
 ### 5 [Método dos mínimos quadrados](https://github.com/pzuehlke/Numerical-Methods/tree/main/5-minimos_quadrados)
 
 5.3 — [Introdução ao método dos mínimos quadrados](https://github.com/pzuehlke/Numerical-Methods/blob/main/5-minimos_quadrados/5-3_introducao_ao_metodo_dos_minimos_quadrados.ipynb)<br>
-5.4 — [A reta de mínimos quadrados](https://github.com/pzuehlke/Numerical-Methods/blob/main/5-minimos_quadrados/5-4_reta_de_minimos_quadrados.ipynb)
+5.4 — [A reta de mínimos quadrados](https://github.com/pzuehlke/Numerical-Methods/blob/main/5-minimos_quadrados/5-4_reta_de_minimos_quadrados.ipynb)<br>
+5.5 — [Regressão polinomial](https://github.com/pzuehlke/Numerical-Methods/blob/main/5-minimos_quadrados/5-5_regressao_polinomial.ipynb)
 
 ### 6 [Integração numérica](https://github.com/pzuehlke/Numerical-Methods/tree/main/6-integracao_numerica)<br>
 6.1 — [Fórmulas de Newton-Cotes](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_numerica/6-1_formulas_de_Newton-Cotes.ipynb)<br>
