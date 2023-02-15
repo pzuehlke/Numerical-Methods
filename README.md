@@ -1,6 +1,6 @@
 # Numerical-Methods
 
-🇵🇹 Contém [cadernos Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/) em [Python 3](https://www.python.org/) usados para lecionar Cálculo Numérico a estudantes de graduação.
+🇵🇹 Contém [cadernos Jupyter](https://jupyter-notebook.readthedocs.io/en/stable/) em [Python 3](https://www.python.org/) usados para lecionar Métodos Numéricos a estudantes de graduação.
 
 🇬🇧 Contains [Jupyter
 notebooks](https://jupyter-notebook.readthedocs.io/en/stable/) in
@@ -43,10 +43,11 @@ Methods to undergraduate students.
 
 
 ## Bibliografia (bibliography)
-* Hamming, R. W. (1979) — [_Numerical Methods for Scientists and Engineers_](https://store.doverpublications.com/0486652416.html), 2nd
-  ed. — McGraw Hill
-* Kiusalaas, J. (2013) — [_Numerical Methods in Engineering with Python 3_](https://doi.org/10.1017/CBO9781139523899) —
+* Hämmerling, G. und Hoffmann, K-H — [_Numerische Mathematik_](https://link.springer.com/book/10.1007/978-3-642-57894-6), 4. Aufl. (2013) — Springer Verlag
+* Hamming, R. W. — [_Numerical Methods for Scientists and Engineers_](https://store.doverpublications.com/0486652416.html), 2nd
+  ed. (1979) — McGraw Hill
+* Kiusalaas, J. — [_Numerical Methods in Engineering with Python 3_](https://doi.org/10.1017/CBO9781139523899) —
   Cambridge University Press
-* Matthes, E. (2022) — [_Python Crash Course_](https://nostarch.com/python-crash-course-3rd-edition), 3rd ed. — No Starch Press
-* Ruggiero, M. and Lopes, V. (2000) — [_Cálculo Numérico_](https://br.pearson.com/), 2nd ed. — Pearson
+* Matthes, E. — [_Python Crash Course_](https://nostarch.com/python-crash-course-3rd-edition), 3rd ed. (2022) — No Starch Press
+* Ruggiero, M. e Lopes, V. — [_Cálculo Numérico_](https://br.pearson.com/), 1a ed. (2000) — Pearson
 * [https://github.com/tiagoburiol/NUMETHODS](https://github.com/tiagoburiol/NUMETHODS)
