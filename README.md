@@ -15,6 +15,12 @@ Methods to undergraduate students.
 ### 1 [Numbers, errors and floating point arithmetic](https://github.com/pzuehlke/Numerical-Methods/tree/main/1-floating_point_arithmetic)
 
 ### 2 [Zeros de funções](https://github.com/pzuehlke/Numerical-Methods/tree/main/2-zeros_de_funcoes)
+2.1 — [Zeros de funções](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-1_zeros_de_funcoes.ipynb)<br>
+2.2 — [Localização de raízes](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-2_localizacao_de_zeros.ipynb)<br>
+2.3 — [Método da bissecção](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-3_metodo_da_bisseccao.ipynb)<br>
+2.4 — [Métodos da secante e da posição falsa](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-4_metodos_da_secante_e_posicao_falsa.ipynb)<br>
+2.5 — [Método do ponto fixo](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-5_metodo_do_ponto_fixo.ipynb)<br>
+
 
 ### 3 [Matrizes e sistemas lineares](https://github.com/pzuehlke/Numerical-Methods/tree/main/3-sistemas_lineares)<br>
 3.3 — [Métodos iterativos](https://github.com/pzuehlke/Numerical-Methods/blob/main/3-sistemas_lineares/3-3_metodos_iterativos.ipynb)<br>
