@@ -20,6 +20,7 @@ Methods to undergraduate students.
 2.3 — [Método da bissecção](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-3_metodo_da_bisseccao.ipynb)<br>
 2.4 — [Métodos da secante e da posição falsa](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-4_metodos_da_secante_e_posicao_falsa.ipynb)<br>
 2.5 — [Método do ponto fixo](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-5_metodo_do_ponto_fixo.ipynb)<br>
+2.6 — [Método de Newton](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-6_metodo_de_Newton.ipynb)
 
 
 ### 3 [Matrizes e sistemas lineares](https://github.com/pzuehlke/Numerical-Methods/tree/main/3-sistemas_lineares)<br>
@@ -39,7 +40,8 @@ Methods to undergraduate students.
 6.1 — [Fórmulas de Newton-Cotes](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_numerica/6-1_formulas_de_Newton-Cotes.ipynb)<br>
 6.2 — [Regra do trapézio](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_numerica/6-2_regra_do_trapezio.ipynb)<br>
 6.3 — [Regra de Simpson](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_numerica/6-3_regra_de_Simpson.ipynb)<br>
-6.4 — [Integração de Monte Carlo](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_numerica/6-4_integracao_de_Monte_Carlo.ipynb)
+6.4 — [Método de Monte Carlo](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_numerica/6-4_metodo_de_Monte_Carlo.ipynb)<br>
+6.5 — [Integração de Monte Carlo](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_numerica/6-5_integracao_de_Monte_Carlo.ipynb)
 
 ### 7 [Problemas de valor inicial](https://github.com/pzuehlke/Numerical-Methods/tree/main/7-problemas_de_valor_inicial)<br>
 7.1 — [Introdução](https://github.com/pzuehlke/Numerical-Methods/blob/main/7-problemas_de_valor_inicial/7-1_introducao.ipynb)<br>
