@@ -58,4 +58,3 @@ Methods to undergraduate students.
   Cambridge University Press
 * Matthes, E. — [_Python Crash Course_](https://nostarch.com/python-crash-course-3rd-edition), 3rd ed. (2022) — No Starch Press
 * Ruggiero, M. e Lopes, V. — [_Cálculo Numérico_](https://br.pearson.com/), 1a ed. (2000) — Pearson
-* [https://github.com/tiagoburiol/NUMETHODS](https://github.com/tiagoburiol/NUMETHODS)
