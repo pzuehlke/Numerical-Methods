@@ -11,8 +11,13 @@ Methods to undergraduate students.
 ## Índice (table of contents)
 
 ### 0 [Python and Jupyter tutorial](https://github.com/pzuehlke/Numerical-Methods/tree/main/0-python_tutorial)
+0.1 — [Basic data types and operators](https://github.com/pzuehlke/Numerical-Methods/blob/main/0-python_tutorial/0-1_basic_data_types_and_operators.ipynb)<br>
+0.2 — [Conditional expressions and loops](https://github.com/pzuehlke/Numerical-Methods/blob/main/0-python_tutorial/0-2_conditionals_and_loops.ipynb)<br>
+0.3 — [Functions and modules](https://github.com/pzuehlke/Numerical-Methods/blob/main/0-python_tutorial/0-3_functions_and_modules.ipynb)
+
 
 ### 1 [Numbers, errors and floating point arithmetic](https://github.com/pzuehlke/Numerical-Methods/tree/main/1-floating_point_arithmetic)
+
 
 ### 2 [Zeros de funções](https://github.com/pzuehlke/Numerical-Methods/tree/main/2-zeros_de_funcoes)
 2.1 — [Zeros de funções](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-1_zeros_de_funcoes.ipynb)<br>
