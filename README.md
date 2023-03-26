@@ -20,6 +20,7 @@ Methods to undergraduate students.
 
 
 ### 1 [Numbers, errors and floating point arithmetic](https://github.com/pzuehlke/Numerical-Methods/tree/main/1-floating_point_arithmetic)
+1.1 — [Number representations](https://github.com/pzuehlke/Numerical-Methods/blob/main/1-floating_point_arithmetic/1-1_number_representations.ipynb)<br>
 
 
 ### 2 [Zeros de funções](https://github.com/pzuehlke/Numerical-Methods/tree/main/2-zeros_de_funcoes)
