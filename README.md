@@ -14,8 +14,9 @@ Methods to undergraduate students.
 0.1 — [About Python and Jupyter notebooks](https://github.com/pzuehlke/Python-Tutorial/blob/main/1-about_python_and_jupyter_notebooks.ipynb)<br>
 0.2 — [Variables, types and basic operators](https://github.com/pzuehlke/Python-Tutorial/blob/main/2-variables_types_and_basic_operators.ipynb)<br>
 0.3 — [Strings, lists and tuples](https://github.com/pzuehlke/Python-Tutorial/blob/main/3-strings_lists_and_tuples.ipynb)<br>
-0.4 — [Conditional expressions and loops](https://github.com/pzuehlke/Python-Tutorial/blob/main/4-conditionals_and_loops.ipynb)<br>
-0.5 — [Functions and modules](https://github.com/pzuehlke/Python-Tutorial/blob/main/5-functions_and_modules.ipynb)
+0.4 — [Conditionals and list comprehensions](https://github.com/pzuehlke/Python-Tutorial/blob/main/4-conditionals_and_list_comprehensions.ipynb)<br>
+0.5 — [For and while](https://github.com/pzuehlke/Python-Tutorial/blob/main/5-for_and_while.ipynb)<br>
+0.6 — [Functions and modules](https://github.com/pzuehlke/Python-Tutorial/blob/main/6-functions_and_modules.ipynb)
 
 
 ### 1 [Numbers, errors and floating point arithmetic](https://github.com/pzuehlke/Numerical-Methods/tree/main/1-floating_point_arithmetic)
