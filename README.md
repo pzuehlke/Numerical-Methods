@@ -19,8 +19,10 @@ Methods to undergraduate students.
 0.6 — [Functions and modules](https://github.com/pzuehlke/Python-Tutorial/blob/main/6-functions_and_modules.ipynb)
 
 
-### 1 [Numbers, errors and floating point arithmetic](https://github.com/pzuehlke/Numerical-Methods/tree/main/1-floating_point_arithmetic)
+### 1 [Números, erros e aritmética de ponto flutuante](https://github.com/pzuehlke/Numerical-Methods/tree/main/1-floating_point_arithmetic)
 1.1 — [Number representations](https://github.com/pzuehlke/Numerical-Methods/blob/main/1-floating_point_arithmetic/1-1_number_representations.ipynb)<br>
+1.2 — [Aritmética de ponto flutuante](https://github.com/pzuehlke/Numerical-Methods/blob/main/1-floating_point_arithmetic/1-2_aritmetica_de_ponto_flutuante.ipynb)<br>
+1.3 — [Erros](https://github.com/pzuehlke/Numerical-Methods/blob/main/1-floating_point_arithmetic/1-3_erros.ipynb)
 
 
 ### 2 [Zeros de funções](https://github.com/pzuehlke/Numerical-Methods/tree/main/2-zeros_de_funcoes)
