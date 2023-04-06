@@ -7,7 +7,6 @@ notebooks](https://jupyter-notebook.readthedocs.io/en/stable/) in
 [Python 3](https://www.python.org/) used to teach a course on Numerical
 Methods to undergraduate students. 
 
-
 ## Índice (table of contents)
 
 ### 0 [Python and Jupyter tutorial](https://github.com/pzuehlke/Python-Tutorial)
@@ -16,14 +15,13 @@ Methods to undergraduate students.
 0.3 — [Strings, lists and tuples](https://github.com/pzuehlke/Python-Tutorial/blob/main/3-strings_lists_and_tuples.ipynb)<br>
 0.4 — [Conditionals and list comprehensions](https://github.com/pzuehlke/Python-Tutorial/blob/main/4-conditionals_and_list_comprehensions.ipynb)<br>
 0.5 — [For and while](https://github.com/pzuehlke/Python-Tutorial/blob/main/5-for_and_while.ipynb)<br>
-0.6 — [Functions and modules](https://github.com/pzuehlke/Python-Tutorial/blob/main/6-functions_and_modules.ipynb)
-
+0.6 — [Functions and modules](https://github.com/pzuehlke/Python-Tutorial/blob/main/6-functions_and_modules.ipynb)<br>
+0.7 — [Introduction to Matplotlib](https://github.com/pzuehlke/Python-Tutorial/blob/main/7-functions_and_modules.ipynb)
 
 ### 1 [Números, erros e aritmética de ponto flutuante](https://github.com/pzuehlke/Numerical-Methods/tree/main/1-floating_point_arithmetic)
 1.1 — [Number representations](https://github.com/pzuehlke/Numerical-Methods/blob/main/1-floating_point_arithmetic/1-1_number_representations.ipynb)<br>
 1.2 — [Aritmética de ponto flutuante](https://github.com/pzuehlke/Numerical-Methods/blob/main/1-floating_point_arithmetic/1-2_aritmetica_de_ponto_flutuante.ipynb)<br>
 1.3 — [Erros](https://github.com/pzuehlke/Numerical-Methods/blob/main/1-floating_point_arithmetic/1-3_erros.ipynb)
-
 
 ### 2 [Zeros de funções](https://github.com/pzuehlke/Numerical-Methods/tree/main/2-zeros_de_funcoes)
 2.0 — [Introdução à Matplotlib](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-0_introducao_a_matplotlib.ipynb)<br>
@@ -34,7 +32,6 @@ Methods to undergraduate students.
 2.5 — [Método do ponto fixo](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-5_metodo_do_ponto_fixo.ipynb)<br>
 2.6 — [Método de Newton](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-6_metodo_de_Newton.ipynb)
 
-
 ### 3 [Matrizes e sistemas lineares](https://github.com/pzuehlke/Numerical-Methods/tree/main/3-sistemas_lineares)<br>
 3.3 — [Métodos iterativos](https://github.com/pzuehlke/Numerical-Methods/blob/main/3-sistemas_lineares/3-3_metodos_iterativos.ipynb)<br>
 3.4 — [Método de Jacobi](https://github.com/pzuehlke/Numerical-Methods/blob/main/3-sistemas_lineares/3-4_metodo_de_Jacobi.ipynb)<br>
@@ -43,7 +40,6 @@ Methods to undergraduate students.
 ### 4 [Interpolação polinomial](https://github.com/pzuehlke/Numerical-Methods/tree/main/4-interpolacao_polinomial)
 
 ### 5 [Método dos mínimos quadrados](https://github.com/pzuehlke/Numerical-Methods/tree/main/5-minimos_quadrados)
-
 5.3 — [Introdução ao método dos mínimos quadrados](https://github.com/pzuehlke/Numerical-Methods/blob/main/5-minimos_quadrados/5-3_introducao_ao_metodo_dos_minimos_quadrados.ipynb)<br>
 5.4 — [A reta de mínimos quadrados](https://github.com/pzuehlke/Numerical-Methods/blob/main/5-minimos_quadrados/5-4_reta_de_minimos_quadrados.ipynb)<br>
 5.5 — [Regressão polinomial](https://github.com/pzuehlke/Numerical-Methods/blob/main/5-minimos_quadrados/5-5_regressao_polinomial.ipynb)
@@ -60,7 +56,6 @@ Methods to undergraduate students.
 7.2 — [Método de Euler](https://github.com/pzuehlke/Numerical-Methods/blob/main/7-problemas_de_valor_inicial/7-2_metodo_de_Euler.ipynb)<br>
 7.3 — [Métodos de Taylor](https://github.com/pzuehlke/Numerical-Methods/blob/main/7-problemas_de_valor_inicial/7-3_metodos_de_Taylor.ipynb)<br>
 7.4 — [Métodos de Runge-Kutta](https://github.com/pzuehlke/Numerical-Methods/blob/main/7-problemas_de_valor_inicial/7-4_metodos_de_Runge-Kutta.ipynb)
-
 
 ## Bibliografia (bibliography)
 * Hämmerling, G. und Hoffmann, K-H — [_Numerische Mathematik_](https://link.springer.com/book/10.1007/978-3-642-57894-6), 4. Aufl. (2013) — Springer Verlag
