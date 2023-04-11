@@ -24,7 +24,6 @@ Methods to undergraduate students.
 1.3 — [Erros](https://github.com/pzuehlke/Numerical-Methods/blob/main/1-floating_point_arithmetic/1-3_erros.ipynb)
 
 ### 2 [Zeros de funções](https://github.com/pzuehlke/Numerical-Methods/tree/main/2-zeros_de_funcoes)
-2.0 — [Introdução à Matplotlib](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-0_introducao_a_matplotlib.ipynb)<br>
 2.1 — [Zeros de funções](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-1_zeros_de_funcoes.ipynb)<br>
 2.2 — [Localização de raízes](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-2_localizacao_de_zeros.ipynb)<br>
 2.3 — [Método da bissecção](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-3_metodo_da_bisseccao.ipynb)<br>
