@@ -62,5 +62,5 @@ Methods to undergraduate students.
   ed. (1979) — McGraw Hill
 * Kiusalaas, J. — [_Numerical Methods in Engineering with Python 3_](https://doi.org/10.1017/CBO9781139523899) —
   Cambridge University Press
-* Matthes, E. — [_Python Crash Course_](https://nostarch.com/python-crash-course-3rd-edition), 3rd ed. (2022) — No Starch Press
 * Ruggiero, M. e Lopes, V. — [_Cálculo Numérico_](https://br.pearson.com/), 1a ed. (2000) — Pearson
+* Zelle, John — [_Python Programming: An Introduction to Computer Science_](https://mcsp.wartburg.edu/zelle/python), 3rd ed. (2016) — Franklin, Beedle & Associates
