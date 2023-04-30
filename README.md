@@ -29,8 +29,8 @@ Methods to undergraduate students.
 2.3 — [Método da bissecção](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-3_metodo_da_bisseccao.ipynb)<br>
 2.4 — [Método da posição falsa](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-4_metodo_da_posicao_falsa.ipynb)<br>
 2.5 — [Método do ponto fixo](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-5_metodo_do_ponto_fixo.ipynb)<br>
-2.6 — [Método de Newton](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-6_metodo_de_Newton.ipynb)
-2.7 — [Método de Newton](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-7_metodo_da_secante.ipynb)<br>
+2.6 — [Método de Newton](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-6_metodo_de_Newton.ipynb)<br>
+2.7 — Método da secante<br>
 2.8 — [Zeros de polinômios](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-8_zeros_de_polinomios.ipynb)<br>
 2.9 — [Métodos de Horner e Laguerre](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-9_metodos_de_Horner_e_Laguerre.ipynb)
 
