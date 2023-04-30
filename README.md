@@ -10,11 +10,11 @@ Methods to undergraduate students.
 ## Índice (table of contents)
 
 ### 0 [Python and Jupyter tutorial](https://github.com/pzuehlke/Python-Tutorial)
-0.1 — [About Python and Jupyter notebooks](https://github.com/pzuehlke/Python-Tutorial/blob/main/1-about_python_and_jupyter_notebooks.ipynb)<br>
+0.1 — [Python and Jupyter notebooks](https://github.com/pzuehlke/Python-Tutorial/blob/main/1-about_python_and_jupyter_notebooks.ipynb)<br>
 0.2 — [Basic types and operations](https://github.com/pzuehlke/Python-Tutorial/blob/main/2-basic_types_and_operations.ipynb)<br>
-0.3 — [Strings, lists and tuples](https://github.com/pzuehlke/Python-Tutorial/blob/main/3-strings_lists_and_tuples.ipynb)<br>
-0.4 — [Conditionals and list comprehensions](https://github.com/pzuehlke/Python-Tutorial/blob/main/4-conditionals_and_list_comprehensions.ipynb)<br>
-0.5 — [For and while](https://github.com/pzuehlke/Python-Tutorial/blob/main/5-for_and_while.ipynb)<br>
+0.3 — [Iterables (strings, lists, tuples, dictionaries, sets)](https://github.com/pzuehlke/Python-Tutorial/blob/main/3-iterables.ipynb)<br>
+0.4 — [Decision structures (`if`, `else`, `elif`)](https://github.com/pzuehlke/Python-Tutorial/blob/main/4-decision_structures.ipynb)<br>
+0.5 — [Loop structures (`for` and `while`)](https://github.com/pzuehlke/Python-Tutorial/blob/main/5-loop_structures.ipynb)<br>
 0.6 — [Functions and modules](https://github.com/pzuehlke/Python-Tutorial/blob/main/6-functions_and_modules.ipynb)<br>
 0.7 — [Introduction to Matplotlib](https://github.com/pzuehlke/Python-Tutorial/blob/main/7-introduction_to_matplotlib.ipynb)
 
@@ -30,6 +30,10 @@ Methods to undergraduate students.
 2.4 — [Método da posição falsa](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-4_metodo_da_posicao_falsa.ipynb)<br>
 2.5 — [Método do ponto fixo](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-5_metodo_do_ponto_fixo.ipynb)<br>
 2.6 — [Método de Newton](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-6_metodo_de_Newton.ipynb)
+2.7 — [Método de Newton](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-7_metodo_da_secante.ipynb)<br>
+2.8 — [Zeros de polinômios](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-8_zeros_de_polinomios.ipynb)<br>
+2.9 — [Métodos de Horner e Laguerre](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-9_metodos_de_Horner_e_Laguerre.ipynb)
+
 
 ### 3 [Matrizes e sistemas lineares](https://github.com/pzuehlke/Numerical-Methods/tree/main/3-sistemas_lineares)<br>
 3.3 — [Métodos iterativos](https://github.com/pzuehlke/Numerical-Methods/blob/main/3-sistemas_lineares/3-3_metodos_iterativos.ipynb)<br>
