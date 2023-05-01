@@ -24,16 +24,16 @@ Methods to undergraduate students.
 1.3 — [Erros](https://github.com/pzuehlke/Numerical-Methods/blob/main/1-floating_point_arithmetic/1-3_erros.ipynb)
 
 ### 2 [Zeros de funções](https://github.com/pzuehlke/Numerical-Methods/tree/main/2-zeros_de_funcoes)
-2-1 — [Zeros de funções](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2.01_zeros_de_funcoes.ipynb)<br>
-2-2 — [Localização de raízes](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2.02_localizacao_de_zeros.ipynb)<br>
-2-3 — [Método da bissecção](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2.03_metodo_da_bisseccao.ipynb)<br>
-2-4 — [Método da posição falsa](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2.04_metodo_da_posicao_falsa.ipynb)<br>
-2-5 — [Método do ponto fixo](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2.05_metodo_do_ponto_fixo.ipynb)<br>
-2-6 — [Método de Newton](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2.06_metodo_de_Newton.ipynb)<br>
+2-1 — [Zeros de funções](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-01_zeros_de_funcoes.ipynb)<br>
+2-2-— [Localização de raízes](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-02-localizacao_de_zeros.ipynb)<br>
+2-3 — [Método da bissecção](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-03_metodo_da_bisseccao.ipynb)<br>
+2-4 — [Método da posição falsa](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-04_metodo_da_posicao_falsa.ipynb)<br>
+2-5 — [Método do ponto fixo](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-05_metodo_do_ponto_fixo.ipynb)<br>
+2-6 — [Método de Newton](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-06_metodo_de_Newton.ipynb)<br>
 2-7 — Método da secante<br>
-2-8 — [Zeros de polinômios](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2.08_zeros_de_polinomios.ipynb)<br>
-2-9 — [Cálculo com polinômios](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2.09_calculo_com_polinomios.ipynb)<br>
-2-10 — [Método de Laguerre](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2.10_metodo_de_Laguerre.ipynb)
+2-8 — [Zeros de polinômios](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-08_zeros_de_polinomios.ipynb)<br>
+2-9 — [Cálculo com polinômios](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-09_calculo_com_polinomios.ipynb)<br>
+2-10 — [Método de Laguerre](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-10_metodo_de_Laguerre.ipynb)
 
 
 ### 3 [Matrizes e sistemas lineares](https://github.com/pzuehlke/Numerical-Methods/tree/main/3-sistemas_lineares)<br>
