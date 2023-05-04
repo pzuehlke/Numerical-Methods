@@ -25,7 +25,7 @@ Methods to undergraduate students.
 
 ### 2 [Zeros de funções](https://github.com/pzuehlke/Numerical-Methods/tree/main/2-zeros_de_funcoes)
 2-1 — [Zeros de funções](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-01_zeros_de_funcoes.ipynb)<br>
-2-2-— [Localização de raízes](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-02-localizacao_de_zeros.ipynb)<br>
+2-2 — [Localização de raízes](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-02-localizacao_de_zeros.ipynb)<br>
 2-3 — [Método da bissecção](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-03_metodo_da_bisseccao.ipynb)<br>
 2-4 — [Método da posição falsa](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-04_metodo_da_posicao_falsa.ipynb)<br>
 2-5 — [Método do ponto fixo](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-05_metodo_do_ponto_fixo.ipynb)<br>
