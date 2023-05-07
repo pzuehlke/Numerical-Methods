@@ -42,6 +42,9 @@ Methods to undergraduate students.
 3.5 — [Método de Gauss-Seidel](https://github.com/pzuehlke/Numerical-Methods/blob/main/3-sistemas_lineares/3-5_metodo_de_Gauss-Seidel.ipynb)
 
 ### 4 [Interpolação polinomial](https://github.com/pzuehlke/Numerical-Methods/tree/main/4-interpolacao_polinomial)
+4.1 — [Interpolação polinomial](https://github.com/pzuehlke/Numerical-Methods/blob/main/4-interpolacao_polinomial/4-1_interpolacao_polinomial.ipynb)<br>
+4.2 — [Fórmula de Lagrange para o polinômio interpolador](https://github.com/pzuehlke/Numerical-Methods/blob/main/4-interpolacao_polinomial/4-2_formula_de_Lagrange.ipynb)<br>
+
 
 ### 5 [Método dos mínimos quadrados](https://github.com/pzuehlke/Numerical-Methods/tree/main/5-minimos_quadrados)
 5.3 — [Introdução ao método dos mínimos quadrados](https://github.com/pzuehlke/Numerical-Methods/blob/main/5-minimos_quadrados/5-3_introducao_ao_metodo_dos_minimos_quadrados.ipynb)<br>
