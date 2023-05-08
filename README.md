@@ -43,7 +43,9 @@ Methods to undergraduate students.
 
 ### 4 [Interpolação polinomial](https://github.com/pzuehlke/Numerical-Methods/tree/main/4-interpolacao_polinomial)
 4.1 — [Interpolação polinomial](https://github.com/pzuehlke/Numerical-Methods/blob/main/4-interpolacao_polinomial/4-1_interpolacao_polinomial.ipynb)<br>
-4.2 — [Fórmula de Lagrange para o polinômio interpolador](https://github.com/pzuehlke/Numerical-Methods/blob/main/4-interpolacao_polinomial/4-2_formula_de_Lagrange.ipynb)<br>
+4.2 — [Forma de Lagrange para o polinômio interpolador](https://github.com/pzuehlke/Numerical-Methods/blob/main/4-interpolacao_polinomial/4-2_forma_de_Lagrange.ipynb)<br>
+4.3 — [Cálculo de diferenças finitas](https://github.com/pzuehlke/Numerical-Methods/blob/main/4-interpolacao_polinomial/4-3_diferencas_finitas.ipynb)<br>
+4.4 — [Forma de Newton para o polinômio interpolador](https://github.com/pzuehlke/Numerical-Methods/blob/main/4-interpolacao_polinomial/4-4_forma_de_Newton.ipynb)<br>
 
 
 ### 5 [Método dos mínimos quadrados](https://github.com/pzuehlke/Numerical-Methods/tree/main/5-minimos_quadrados)
