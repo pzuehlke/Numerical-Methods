@@ -67,10 +67,10 @@ Methods to undergraduate students.
 7.4 — [Métodos de Runge-Kutta](https://github.com/pzuehlke/Numerical-Methods/blob/main/7-problemas_de_valor_inicial/7-4_metodos_de_Runge-Kutta.ipynb)
 
 ## Bibliografia (bibliography)
+* Burden, R., Faires, D. e Burden, A. — [_Análise Numérica_](https://www.cengage.com.br/livro/analise-numerica-2/), 3a ed. (2016) — Cengage Learning
 * Hämmerling, G. und Hoffmann, K-H — [_Numerische Mathematik_](https://link.springer.com/book/10.1007/978-3-642-57894-6), 4. Aufl. (2013) — Springer Verlag
 * Hamming, R. W. — [_Numerical Methods for Scientists and Engineers_](https://store.doverpublications.com/0486652416.html), 2nd
   ed. (1979) — McGraw Hill
-* Kiusalaas, J. — [_Numerical Methods in Engineering with Python 3_](https://doi.org/10.1017/CBO9781139523899) —
-  Cambridge University Press
+* Kiusalaas, J. — [_Numerical Methods in Engineering with Python 3_](https://doi.org/10.1017/CBO9781139523899) — Cambridge University Press
 * Ruggiero, M. e Lopes, V. — [_Cálculo Numérico_](https://br.pearson.com/), 1a ed. (2000) — Pearson
 * Zelle, John — [_Python Programming: An Introduction to Computer Science_](https://mcsp.wartburg.edu/zelle/python), 3rd ed. (2016) — Franklin, Beedle & Associates
