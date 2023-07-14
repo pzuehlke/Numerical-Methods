@@ -38,7 +38,7 @@ Methods to undergraduate students.
 
 ### 3 [Matrizes e sistemas lineares](https://github.com/pzuehlke/Numerical-Methods/tree/main/3-sistemas_lineares)<br>
 3.1 — [Eliminação Gaussiana](https://github.com/pzuehlke/Numerical-Methods/blob/main/3-sistemas_lineares/3-1_eliminacao_Gaussiana.ipynb)<br>
-3.2 — [Eliminação Gaussiana](https://github.com/pzuehlke/Numerical-Methods/blob/main/3-sistemas_lineares/3-2_fatoracao_LU.ipynb)<br>
+3.2 — [Fatoração LU](https://github.com/pzuehlke/Numerical-Methods/blob/main/3-sistemas_lineares/3-2_fatoracao_LU.ipynb)<br>
 3.3 — [Métodos iterativos](https://github.com/pzuehlke/Numerical-Methods/blob/main/3-sistemas_lineares/3-3_metodos_iterativos.ipynb)<br>
 3.4 — [Método de Jacobi](https://github.com/pzuehlke/Numerical-Methods/blob/main/3-sistemas_lineares/3-4_metodo_de_Jacobi.ipynb)<br>
 3.5 — [Método de Gauss-Seidel](https://github.com/pzuehlke/Numerical-Methods/blob/main/3-sistemas_lineares/3-5_metodo_de_Gauss-Seidel.ipynb)
