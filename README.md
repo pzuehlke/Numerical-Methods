@@ -30,10 +30,9 @@ Methods to undergraduate students.
 2-4 — [Método da posição falsa](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-04_metodo_da_posicao_falsa.ipynb)<br>
 2-5 — [Método do ponto fixo](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-05_metodo_do_ponto_fixo.ipynb)<br>
 2-6 — [Método de Newton](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-06_metodo_de_Newton.ipynb)<br>
-2-7 — Método da secante<br>
-2-8 — [Zeros de polinômios](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-08_zeros_de_polinomios.ipynb)<br>
-2-9 — [Cálculo com polinômios](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-09_calculo_com_polinomios.ipynb)<br>
-2-10 — [Método de Laguerre](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-10_metodo_de_Laguerre.ipynb)
+2-7 — [Zeros de polinômios](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-07_zeros_de_polinomios.ipynb)<br>
+2-8 — [Cálculo com polinômios](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-08_calculo_com_polinomios.ipynb)<br>
+2-9 — [Método de Laguerre](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-09_metodo_de_Laguerre.ipynb)
 
 
 ### 3 [Matrizes e sistemas lineares](https://github.com/pzuehlke/Numerical-Methods/tree/main/3-sistemas_lineares)<br>
