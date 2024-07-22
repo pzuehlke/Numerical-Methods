@@ -16,7 +16,6 @@ Methods to undergraduate students.
 0.4 — [Decision structures (`if`, `else`, `elif`)](https://github.com/pzuehlke/Python-Tutorial/blob/main/4-decision_structures.ipynb)<br>
 0.5 — [Loop structures (`for` and `while`)](https://github.com/pzuehlke/Python-Tutorial/blob/main/5-loop_structures.ipynb)<br>
 0.6 — [Functions and modules](https://github.com/pzuehlke/Python-Tutorial/blob/main/6-functions_and_modules.ipynb)<br>
-0.7 — [Introduction to Matplotlib](https://github.com/pzuehlke/Python-Tutorial/blob/main/7-introduction_to_matplotlib.ipynb)
 
 ### 1 [Números, erros e aritmética de ponto flutuante](https://github.com/pzuehlke/Numerical-Methods/tree/main/1-floating_point_arithmetic)
 1.1 — [Number representations](https://github.com/pzuehlke/Numerical-Methods/blob/main/1-floating_point_arithmetic/1-1_number_representations.ipynb)<br>
