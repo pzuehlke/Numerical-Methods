@@ -12,16 +12,18 @@ Methods to undergraduate students.
 ### 0 [Python and Jupyter tutorial](https://github.com/pzuehlke/Python-Tutorial)
 0.1 — [Python and Jupyter notebooks](https://github.com/pzuehlke/Python-Tutorial/blob/main/1-about_python_and_jupyter_notebooks.ipynb)<br>
 0.2 — [Basic types and operations](https://github.com/pzuehlke/Python-Tutorial/blob/main/2-basic_types_and_operations.ipynb)<br>
-0.3 — [Collections (strings, lists, tuples, dictionaries, sets)](https://github.com/pzuehlke/Python-Tutorial/blob/main/3-collections.ipynb)<br>
-0.4 — [Decision structures (`if`, `else`, `elif`)](https://github.com/pzuehlke/Python-Tutorial/blob/main/4-decision_structures.ipynb)<br>
-0.5 — [Loop structures (`for` and `while`)](https://github.com/pzuehlke/Python-Tutorial/blob/main/5-loop_structures.ipynb)<br>
-0.6 — [Functions and modules](https://github.com/pzuehlke/Python-Tutorial/blob/main/6-functions_and_modules.ipynb)<br>
+0.3 — [Strings](https://github.com/pzuehlke/Python-Tutorial/blob/main/3-strings.ipynb)<br>
+0.4 — [Collections (lists, tuples, sets and dictionaries)](https://github.com/pzuehlke/Python-Tutorial/blob/main/4-collections.ipynb)<br>
+0.5 — [Decision structures (`if`-`else`-`elif` and `match`)](https://github.com/pzuehlke/Python-Tutorial/blob/main/5-decision_structures.ipynb)<br>
+0.6 — [Loop structures (`for` and `while`)](https://github.com/pzuehlke/Python-Tutorial/blob/main/6-loop_structures.ipynb)<br>
+0.7 — [Functions and modules](https://github.com/pzuehlke/Python-Tutorial/blob/main/7-functions_and_modules.ipynb)<br>
+0.8 — [Introduction to Matplotlib](https://github.com/pzuehlke/Python-Tutorial/blob/main/8-introduction_to_matplotlib.ipynb)<br>
 
-### 1 [Números, erros e aritmética de ponto flutuante](https://github.com/pzuehlke/Numerical-Methods/tree/main/1-floating_point_arithmetic)
-1.1 — [Number representations](https://github.com/pzuehlke/Numerical-Methods/blob/main/1-floating_point_arithmetic/1-1_number_representations.ipynb)<br>
-1.2 — [Aritmética de ponto flutuante](https://github.com/pzuehlke/Numerical-Methods/blob/main/1-floating_point_arithmetic/1-2_aritmetica_de_ponto_flutuante.ipynb)<br>
-1.3 — [Erros](https://github.com/pzuehlke/Numerical-Methods/blob/main/1-floating_point_arithmetic/1-3_erros.ipynb)<br>
-1.4 — [Gráficos de funções](https://github.com/pzuehlke/Numerical-Methods/blob/main/1-floating_point_arithmetic/1-4_graficos_de_funcoes.ipynb)<br>
+### 1 [Números, erros e aritmética de ponto flutuante](https://github.com/pzuehlke/Numerical-Methods/tree/main/1-numeros_erros_e_aritmetica)
+1.1 — [Number representations](https://github.com/pzuehlke/Numerical-Methods/blob/main/1-numeros_erros_e_aritmetica/1-1_number_representations.ipynb)<br>
+1.2 — [Aritmética de ponto flutuante](https://github.com/pzuehlke/Numerical-Methods/blob/main/1-numeros_erros_e_aritmetica/1-2_aritmetica_de_ponto_flutuante.ipynb)<br>
+1.3 — [Erros](https://github.com/pzuehlke/Numerical-Methods/blob/main/1-numeros_erros_e_aritmetica/1-3_erros.ipynb)<br>
+1.4 — [Gráficos de funções](https://github.com/pzuehlke/Numerical-Methods/blob/main/1-numeros_erros_e_aritmetica/1-4_graficos_de_funcoes.ipynb)<br>
 
 ### 2 [Zeros de funções](https://github.com/pzuehlke/Numerical-Methods/tree/main/2-zeros_de_funcoes)
 2-1 — [Zeros de funções](https://github.com/pzuehlke/Numerical-Methods/blob/main/2-zeros_de_funcoes/2-01_zeros_de_funcoes.ipynb)<br>
@@ -54,12 +56,14 @@ Methods to undergraduate students.
 5.4 — [A reta de mínimos quadrados](https://github.com/pzuehlke/Numerical-Methods/blob/main/5-minimos_quadrados/5-4_reta_de_minimos_quadrados.ipynb)<br>
 5.5 — [Regressão polinomial](https://github.com/pzuehlke/Numerical-Methods/blob/main/5-minimos_quadrados/5-5_regressao_polinomial.ipynb)
 
-### 6 [Integração numérica](https://github.com/pzuehlke/Numerical-Methods/tree/main/6-integracao_numerica)<br>
-6.1 — [Fórmulas de Newton-Cotes](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_numerica/6-1_formulas_de_Newton-Cotes.ipynb)<br>
-6.2 — [Regra do trapézio](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_numerica/6-2_regra_do_trapezio.ipynb)<br>
-6.3 — [Regra de Simpson](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_numerica/6-3_regra_de_Simpson.ipynb)<br>
-6.4 — [Método de Monte Carlo](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_numerica/6-4_metodo_de_Monte_Carlo.ipynb)<br>
-6.5 — [Integração de Monte Carlo](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_numerica/6-5_integracao_de_Monte_Carlo.ipynb)
+### 6 [Integração e diferenciação](https://github.com/pzuehlke/Numerical-Methods/tree/main/6-integracao_e_diferenciacao)<br>
+6.1 — [Fórmulas de Newton-Cotes](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_e_diferenciacao/6-1_formulas_de_Newton-Cotes.ipynb)<br>
+6.2 — [Regra do trapézio](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_e_diferenciacao/6-2_regra_do_trapezio.ipynb)<br>
+6.3 — [Regra de Simpson](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_e_diferenciacao/6-3_regra_de_Simpson.ipynb)<br>
+6.4 — [Método de Monte Carlo](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_e_diferenciacao/6-4_metodo_de_Monte_Carlo.ipynb)<br>
+6.5 — [Integração de Monte Carlo](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_e_diferenciacao/6-5_integracao_de_Monte_Carlo.ipynb)<br>
+6.6 — [Métodos básicos de diferenciação numérica](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_e_diferenciacao/6-6_diferenciacao_numerica.ipynb)<br>
+6.7 — [Integração e diferenciação simbólica com o SymPy](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_e_diferenciacao/6-7_integracao_diferenciacao_simbolica.ipynb)
 
 ### 7 [Problemas de valor inicial](https://github.com/pzuehlke/Numerical-Methods/tree/main/7-problemas_de_valor_inicial)<br>
 7.1 — [Introdução](https://github.com/pzuehlke/Numerical-Methods/blob/main/7-problemas_de_valor_inicial/7-1_introducao.ipynb)<br>
