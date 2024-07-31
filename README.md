@@ -62,8 +62,7 @@ Methods to undergraduate students.
 6.3 — [Regra de Simpson](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_e_diferenciacao/6-3_regra_de_Simpson.ipynb)<br>
 6.4 — [Método de Monte Carlo](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_e_diferenciacao/6-4_metodo_de_Monte_Carlo.ipynb)<br>
 6.5 — [Integração de Monte Carlo](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_e_diferenciacao/6-5_integracao_de_Monte_Carlo.ipynb)<br>
-6.6 — [Métodos básicos de diferenciação numérica](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_e_diferenciacao/6-6_diferenciacao_numerica.ipynb)<br>
-6.7 — [Integração e diferenciação simbólica com o SymPy](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_e_diferenciacao/6-7_integracao_diferenciacao_simbolica.ipynb)
+6.6 — [Diferenciação numérica e simbólica](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_e_diferenciacao/6-6_diferenciacao_numerica_e_simbolica.ipynb)<br>
 
 ### 7 [Problemas de valor inicial](https://github.com/pzuehlke/Numerical-Methods/tree/main/7-problemas_de_valor_inicial)<br>
 7.1 — [Introdução](https://github.com/pzuehlke/Numerical-Methods/blob/main/7-problemas_de_valor_inicial/7-1_introducao.ipynb)<br>
