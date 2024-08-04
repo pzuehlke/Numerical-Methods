@@ -17,7 +17,6 @@ Methods to undergraduate students.
 0.5 — [Decision structures (`if`-`else`-`elif` and `match`)](https://github.com/pzuehlke/Python-Tutorial/blob/main/5-decision_structures.ipynb)<br>
 0.6 — [Loop structures (`for` and `while`)](https://github.com/pzuehlke/Python-Tutorial/blob/main/6-loop_structures.ipynb)<br>
 0.7 — [Functions and modules](https://github.com/pzuehlke/Python-Tutorial/blob/main/7-functions_and_modules.ipynb)<br>
-0.8 — [Introduction to Matplotlib](https://github.com/pzuehlke/Python-Tutorial/blob/main/8-introduction_to_matplotlib.ipynb)<br>
 
 ### 1 [Números, erros e aritmética de ponto flutuante](https://github.com/pzuehlke/Numerical-Methods/tree/main/1-numeros_erros_e_aritmetica)
 1.1 — [Number representations](https://github.com/pzuehlke/Numerical-Methods/blob/main/1-numeros_erros_e_aritmetica/1-1_number_representations.ipynb)<br>
@@ -52,9 +51,9 @@ Methods to undergraduate students.
 
 
 ### 5 [Método dos mínimos quadrados](https://github.com/pzuehlke/Numerical-Methods/tree/main/5-minimos_quadrados)
-5.3 — [Introdução ao método dos mínimos quadrados](https://github.com/pzuehlke/Numerical-Methods/blob/main/5-minimos_quadrados/5-3_introducao_ao_metodo_dos_minimos_quadrados.ipynb)<br>
-5.4 — [A reta de mínimos quadrados](https://github.com/pzuehlke/Numerical-Methods/blob/main/5-minimos_quadrados/5-4_reta_de_minimos_quadrados.ipynb)<br>
-5.5 — [Regressão polinomial](https://github.com/pzuehlke/Numerical-Methods/blob/main/5-minimos_quadrados/5-5_regressao_polinomial.ipynb)
+5.1 — [Introdução ao método dos mínimos quadrados](https://github.com/pzuehlke/Numerical-Methods/blob/main/5-minimos_quadrados/5-1_introducao_ao_metodo_dos_minimos_quadrados.ipynb)<br>
+5.2 — [Regressão linears simples](https://github.com/pzuehlke/Numerical-Methods/blob/main/5-minimos_quadrados/5-2_regressao_linear_simples.ipynb)<br>
+5.3 — [Regressão polinomial](https://github.com/pzuehlke/Numerical-Methods/blob/main/5-minimos_quadrados/5-3_regressao_polinomial.ipynb)
 
 ### 6 [Integração e diferenciação](https://github.com/pzuehlke/Numerical-Methods/tree/main/6-integracao_e_diferenciacao)<br>
 6.1 — [Fórmulas de Newton-Cotes](https://github.com/pzuehlke/Numerical-Methods/blob/main/6-integracao_e_diferenciacao/6-1_formulas_de_Newton-Cotes.ipynb)<br>
