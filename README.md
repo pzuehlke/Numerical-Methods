@@ -10,9 +10,9 @@ Methods to undergraduate students.
 ## Índice (table of contents)
 
 ### 0 [Tutorial Python](https://github.com/pzuehlke/Numerical-Methods/tree/main/0-tutorial_python)
-0.1 — [Python and Jupyter notebooks](https://github.com/pzuehlke/Python-Tutorial/blob/main/0-1_sobre_python_e_cadernos_jupyter.ipynb)<br>
-0.2 — [Basic types and operations](https://github.com/pzuehlke/Python-Tutorial/blob/main/0-2_tipos_e_operacoes_basicos.ipynb)<br>
-0.3 — [Strings](https://github.com/pzuehlke/Python-Tutorial/blob/main/0-3_strings.ipynb)<br>
+0.1 — [Python e cadernos Jupyter](https://github.com/pzuehlke/Numerical-Methods/blob/main/0-tutorial_python/0-1_sobre_python_e_cadernos_jupyter.ipynb)<br>
+0.2 — [Tipos e operações básicos](https://github.com/pzuehlke/Numerical-Methods/blob/main/0-tutorial_python/0-2_tipos_e_operacoes_basicos.ipynb)<br>
+0.3 — [Strings](https://github.com/pzuehlke/Numerical-Methods/blob/main/0-tutorial_python/0-3_strings.ipynb)<br>
 0.4 — [Collections (lists, tuples, sets and dictionaries)](https://github.com/pzuehlke/Python-Tutorial/blob/main/4-collections.ipynb)<br>
 0.5 — [Decision structures (`if`-`else`-`elif` and `match`)](https://github.com/pzuehlke/Python-Tutorial/blob/main/5-decision_structures.ipynb)<br>
 0.6 — [Loop structures (`for` and `while`)](https://github.com/pzuehlke/Python-Tutorial/blob/main/6-loop_structures.ipynb)<br>
