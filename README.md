@@ -9,10 +9,10 @@ Methods to undergraduate students.
 
 ## Índice (table of contents)
 
-### 0 [Python and Jupyter tutorial](https://github.com/pzuehlke/Python-Tutorial)
-0.1 — [Python and Jupyter notebooks](https://github.com/pzuehlke/Python-Tutorial/blob/main/1-about_python_and_jupyter_notebooks.ipynb)<br>
-0.2 — [Basic types and operations](https://github.com/pzuehlke/Python-Tutorial/blob/main/2-basic_types_and_operations.ipynb)<br>
-0.3 — [Strings](https://github.com/pzuehlke/Python-Tutorial/blob/main/3-strings.ipynb)<br>
+### 0 [Tutorial Python](https://github.com/pzuehlke/Numerical-Methods/tree/main/0-tutorial_python)
+0.1 — [Python and Jupyter notebooks](https://github.com/pzuehlke/Python-Tutorial/blob/main/0-1_sobre_python_e_cadernos_jupyter.ipynb)<br>
+0.2 — [Basic types and operations](https://github.com/pzuehlke/Python-Tutorial/blob/main/0-2_tipos_e_operacoes_basicos.ipynb)<br>
+0.3 — [Strings](https://github.com/pzuehlke/Python-Tutorial/blob/main/0-3_strings.ipynb)<br>
 0.4 — [Collections (lists, tuples, sets and dictionaries)](https://github.com/pzuehlke/Python-Tutorial/blob/main/4-collections.ipynb)<br>
 0.5 — [Decision structures (`if`-`else`-`elif` and `match`)](https://github.com/pzuehlke/Python-Tutorial/blob/main/5-decision_structures.ipynb)<br>
 0.6 — [Loop structures (`for` and `while`)](https://github.com/pzuehlke/Python-Tutorial/blob/main/6-loop_structures.ipynb)<br>
@@ -52,7 +52,7 @@ Methods to undergraduate students.
 
 ### 5 [Método dos mínimos quadrados](https://github.com/pzuehlke/Numerical-Methods/tree/main/5-minimos_quadrados)
 5.1 — [Introdução ao método dos mínimos quadrados](https://github.com/pzuehlke/Numerical-Methods/blob/main/5-minimos_quadrados/5-1_introducao_ao_metodo_dos_minimos_quadrados.ipynb)<br>
-5.2 — [Regressão linears simples](https://github.com/pzuehlke/Numerical-Methods/blob/main/5-minimos_quadrados/5-2_regressao_linear_simples.ipynb)<br>
+5.2 — [Regressão linear simples](https://github.com/pzuehlke/Numerical-Methods/blob/main/5-minimos_quadrados/5-2_regressao_linear_simples.ipynb)<br>
 5.3 — [Regressão polinomial](https://github.com/pzuehlke/Numerical-Methods/blob/main/5-minimos_quadrados/5-3_regressao_polinomial.ipynb)
 
 ### 6 [Integração e diferenciação](https://github.com/pzuehlke/Numerical-Methods/tree/main/6-integracao_e_diferenciacao)<br>
