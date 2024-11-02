@@ -13,10 +13,10 @@ Methods to undergraduate students.
 0.1 — [Python e cadernos Jupyter](https://github.com/pzuehlke/Numerical-Methods/blob/main/0-tutorial_python/0-1_sobre_python_e_cadernos_jupyter.ipynb)<br>
 0.2 — [Tipos e operações básicos](https://github.com/pzuehlke/Numerical-Methods/blob/main/0-tutorial_python/0-2_tipos_e_operacoes_basicos.ipynb)<br>
 0.3 — [Strings](https://github.com/pzuehlke/Numerical-Methods/blob/main/0-tutorial_python/0-3_strings.ipynb)<br>
-0.4 — [Collections (lists, tuples, sets and dictionaries)](https://github.com/pzuehlke/Python-Tutorial/blob/main/4-collections.ipynb)<br>
-0.5 — [Decision structures (`if`-`else`-`elif` and `match`)](https://github.com/pzuehlke/Python-Tutorial/blob/main/5-decision_structures.ipynb)<br>
-0.6 — [Loop structures (`for` and `while`)](https://github.com/pzuehlke/Python-Tutorial/blob/main/6-loop_structures.ipynb)<br>
-0.7 — [Functions and modules](https://github.com/pzuehlke/Python-Tutorial/blob/main/7-functions_and_modules.ipynb)<br>
+0.4 — [Coleções (listas, tuplas, conjuntos e dicionários)](https://github.com/pzuehlke/Numerical-Methods/blob/main/0-4_colecoes.ipynb)<br>
+0.5 — [Decision structures (`if`-`else`-`elif` e `match`)](https://github.com/pzuehlke/Numerical-Methods/blob/main/0-5_estruturas_de_decisao.ipynb)<br>
+0.6 — [Estruturas de repetição (`for` e `while`)](https://github.com/pzuehlke/Numerical-Methods/blob/main/0-6_estruturas_de_repeticao.ipynb)<br>
+0.7 — [Funções](https://github.com/pzuehlke/Numerical-Methods/blob/main/0-7_funcoes.ipynb)<br>
 
 ### 1 [Números, erros e aritmética de ponto flutuante](https://github.com/pzuehlke/Numerical-Methods/tree/main/1-numeros_erros_e_aritmetica)
 1.1 — [Number representations](https://github.com/pzuehlke/Numerical-Methods/blob/main/1-numeros_erros_e_aritmetica/1-1_number_representations.ipynb)<br>
