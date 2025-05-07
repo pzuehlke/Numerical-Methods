@@ -14,8 +14,8 @@ Methods to undergraduate students.
 0.2 — [Tipos e operações básicos](https://github.com/pzuehlke/Numerical-Methods/blob/main/0-tutorial_python/0-2_tipos_e_operacoes_basicos.ipynb)<br>
 0.3 — [Strings](https://github.com/pzuehlke/Numerical-Methods/blob/main/0-tutorial_python/0-3_strings.ipynb)<br>
 0.4 — [Coleções (listas, tuplas, conjuntos e dicionários)](https://github.com/pzuehlke/Numerical-Methods/blob/main/0-tutorial_python/0-4_colecoes.ipynb)<br>
-0.5 — [Decision structures (`if`-`else`-`elif` e `match`)](https://github.com/pzuehlke/Numerical-Methods/blob/main/0-tutorial_python/0-5_estruturas_de_decisao.ipynb)<br>
-0.6 — [Estruturas de repetição (`for` e `while`)](https://github.com/pzuehlke/Numerical-Methods/blob/main/0-tutorial_python/0-6_estruturas_de_repeticao.ipynb)<br>
+0.5 — [Estruturas de decisão (`if`-`else`-`elif` e `match`)](https://github.com/pzuehlke/Numerical-Methods/blob/main/0-tutorial_python/0-5_estruturas_de_decisao.ipynb)<br>
+0.6 — [Laços de iteração (`for` e `while`)](https://github.com/pzuehlke/Numerical-Methods/blob/main/0-tutorial_python/0-6_lacos_de_iteracao.ipynb)<br>
 0.7 — [Funções](https://github.com/pzuehlke/Numerical-Methods/blob/main/0-tutorial_python/0-7_funcoes.ipynb)<br>
 
 ### 1 [Números, erros e aritmética de ponto flutuante](https://github.com/pzuehlke/Numerical-Methods/tree/main/1-numeros_erros_e_aritmetica)
